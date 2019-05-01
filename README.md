@@ -3,7 +3,7 @@
 
 ## Training a Tetris Agent Using Deep Q-Learning
 
-![](tetirs.gif)
+![](tetris.gif)
 
 ## Requirments 
 1. Jupyter Notebook: You can install Jupyter Notebook with python 3 using [Anaconda](https://docs.anaconda.com/anaconda/install/). 
@@ -16,9 +16,9 @@
  
 ## Reference
 
-1.[Q-Learning with Feed-forward Neural Networks](https://github.com/CSCI4850/notebook-examples/blob/master/Feed-forward%20Neural%20Networks/Simple%20Q-Learning.ipynb)
-2. [The Evolution of AlphaStar](https://itnext.io/the-evolution-of-alphastar-cefff389b9d5)
-3. [Applying reinforcement learning to Tetris](https://www.colinfahey.com/tetris/ApplyingReinforcementLearningToTetris_DonaldCarr_RU_AC_ZA.pdf)
+1.[Q-Learning with Feed-forward Neural Networks](https://github.com/CSCI4850/notebook-examples/blob/master/Feed-forward%20Neural%20Networks/Simple%20Q-Learning.ipynb) <br>
+2. [The Evolution of AlphaStar](https://itnext.io/the-evolution-of-alphastar-cefff389b9d5)<br>
+3. [Applying reinforcement learning to Tetris](https://www.colinfahey.com/tetris/ApplyingReinforcementLearningToTetris_DonaldCarr_RU_AC_ZA.pdf)<br>
 4. [Learning to Perform a Tetris with Deep
-Reinforcement Learning](https://homes.cs.washington.edu/~xkcd/papers/deep_rl_for_tetris.pdf)
-5. [Playing Tetris with Deep Reinforcement Learning](http://cs231n.stanford.edu/reports/2016/pdfs/121_Report.pdf)
+Reinforcement Learning](https://homes.cs.washington.edu/~xkcd/papers/deep_rl_for_tetris.pdf)<br>
+5. [Playing Tetris with Deep Reinforcement Learning](http://cs231n.stanford.edu/reports/2016/pdfs/121_Report.pdf)<br>
