@@ -6,10 +6,11 @@
 ![](tetirs.gif)
 
 ## Requirments 
-Jupyter Notebook: You can install Jupyter Notebook with python 3 using Anaconda. 
+Jupyter Notebook: You can install Jupyter Notebook with python 3 using Anaconda. <br>
                   https://docs.anaconda.com/anaconda/install/
-Python gym: The Python gym is the essential component of the code. So you have to install Gym using these code:
+            <br>
+Python gym: The Python gym is the essential component of the code. So you have to install Gym using these code: <br>
             pip install gym
 
-Gym Tetris: Gym doesn't have tetris so you will need this code:
+Gym Tetris: Gym doesn't have tetris so you will need this code: <br>
             pip install tetris
