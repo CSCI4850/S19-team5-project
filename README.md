@@ -10,7 +10,9 @@ Jupyter Notebook: You can install Jupyter Notebook with python 3 using Anaconda.
                   <p align = "center"> https://docs.anaconda.com/anaconda/install/ </p>
             <br>
 Python gym: The Python gym is the essential component of the code. So you have to install Gym using these code: <br>
-            pip install gym <br>
+            <p align = "center"> pip install gym </p>
+            <br>
 
 Gym Tetris: Gym doesn't have tetris so you will need this code: <br>
+            <p align = "center"> pip install tetris </p>
             pip install tetris <br>
