@@ -11,8 +11,7 @@
 2. Python gym: The Python gym is the essential component of the code. So you have to install Gym using these code: 
 `pip install gym` <br>
 3. Gym Tetris: Gym doesn't have tetris so you will need this code: 
-`pip install tetris`
- <br>
+`pip install tetris` <br>
 4. To run the demo, you will need to download the [weight.h5](https://github.com/CSCI4850/S19-team5-project/blob/master/weights.h5). We don't include the traning part in the demo because the traning has taken us days to complete. 
  
 ## Reference
