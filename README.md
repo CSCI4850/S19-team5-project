@@ -3,7 +3,7 @@
 
 ## Training a Tetris Agent Using Deep Q-Learning
 
-![](tetirs.gif)
+![](tetris.gif)
 
 ## Requirments 
 1. Jupyter Notebook: You can install Jupyter Notebook with python 3 using [Anaconda](https://docs.anaconda.com/anaconda/install/). 
