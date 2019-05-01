@@ -7,7 +7,7 @@
 
 ## Requirments 
 Jupyter Notebook: You can install Jupyter Notebook with python 3 using Anaconda. <br>
-                  https://docs.anaconda.com/anaconda/install/
+                  <p align = "center"> https://docs.anaconda.com/anaconda/install/ </p>
             <br>
 Python gym: The Python gym is the essential component of the code. So you have to install Gym using these code: <br>
             pip install gym <br>
